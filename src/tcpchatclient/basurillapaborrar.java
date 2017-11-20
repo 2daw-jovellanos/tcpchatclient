@@ -13,7 +13,7 @@ import java.util.*;
  *
  * @author victor
  */
-public class TcpChatClient {
+public class basurillapaborrar {
 
     /**
      * @param args the command line arguments
